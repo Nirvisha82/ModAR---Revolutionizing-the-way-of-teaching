@@ -242,13 +242,13 @@ body {
   background-image: none;
 }
 [data-type="i"] .content__left {
-  background-image: url("../images/H.png");
+  background-image: url("../images/I.png");
 }
 .spinner--right [data-type="i"] .content__left {
   background-image: none;
 }
 [data-type="h"] .content__left {
-  background-image: url("../images/I.png");
+  background-image: url("../images/H.png");
 }
 .spinner--right [data-type="h"] .content__left {
   background-image: none;
