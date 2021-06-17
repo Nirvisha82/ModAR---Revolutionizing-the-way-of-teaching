@@ -3,7 +3,7 @@
 <h2>Problem Statement</h2>
 <p>Lack of imagination among all classes of students in online as well as in offline learning due to traditional methods of textbooks and online notes. Various topics of every subject cannot be given justice to by observing their 2-D diagrams. </p>
 
-<h2>Our Soltution - ModAR</h2>
+<h2>Our Solution - ModAR</h2>
 <p>An Augmented Reality based system wherein school students would be able to observe 3D models of subtopics of various subjects. This can be done with the help of combination of a website and a mobile app. Three subtopics (Human anatomy, Solar system and English alphabets) are added in the website as well as in the application. On selecting  any one of the subtopics, the website would display images and relevant information of that particular subtopic. These images can be scanned by our custom mobile application which would immediately augment a 3D model of those images. These models can be observed from any angle by rotating our phone and the information provided by the website would aid in better understanding of the same.</p>
 
 <h2>Technology Stack</h2>
